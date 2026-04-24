@@ -1,0 +1,21 @@
+{
+  "name": "dockor_kubarnetes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run" : "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vips725/DOCkOR_KUBARNETES.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vips725/DOCkOR_KUBARNETES/issues"
+  },
+  "homepage": "https://github.com/vips725/DOCkOR_KUBARNETES#readme"
+}
